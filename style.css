@@ -21,6 +21,9 @@ img {
     text-align: center;
 }
 
+iframe {align-content: center;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
