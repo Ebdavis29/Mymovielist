@@ -5,11 +5,13 @@ h1 {
     text-shadow: 2px 2px 5px rgb(2, 35, 61);
 }
 body{
-  background-color: rgb(213, 231, 247);  
+  background-color: rgb(213, 231, 247);
+  text-align: center;  
 }
 h2 {
     color:#0487c4;
     font-family: 'Sixtyfour', sans-serif;
+    text-align: center;
 }
 
 img {
